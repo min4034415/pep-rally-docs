@@ -22,10 +22,6 @@ Pep Rally may request the following permissions, all of which are processed on-d
 
 You can revoke any permission at any time in Settings > Pep Rally.
 
-## Health Data
-
-Pep Rally may read HealthKit data (with your permission) to display health metrics in admin mode. This data is read-only, never modified, and never leaves your device.
-
 ## Third-Party Services
 
 Pep Rally uses Apple MapKit for map display. Map tile requests are handled by Apple and subject to [Apple's Privacy Policy](https://www.apple.com/privacy/).
