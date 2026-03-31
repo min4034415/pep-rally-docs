@@ -18,7 +18,6 @@ Pep Rally may request the following permissions, all of which are processed on-d
 | **Motion & Fitness** | Detect activity levels (walking, running, resting) during walks |
 | **Camera** | Take photos for your dog's profile |
 | **Photo Library** | Select existing photos for your dog's profile |
-| **Notifications** | Send walk reminders and session alerts |
 
 You can revoke any permission at any time in Settings > Pep Rally.
 

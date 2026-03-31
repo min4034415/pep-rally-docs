@@ -53,6 +53,7 @@ Make sure you tap the end button to properly finish a session. Check Settings > 
 
 - iPhone running iOS 17.6 or later
 - Location and Motion permissions required for walk tracking
+- Camera and Photo Library permissions required for dog profile photos
 
 ## Privacy
 
