@@ -1,21 +1,40 @@
 # Support
 
-Thanks for using Pep Rally! Here's how to get help.
+Need help with Pep Rally? We're here to help.
 
-## Bug Reports
+## Contact Us
 
-If you've found a bug, please [open an issue](../../issues/new?template=bug_report.md) with steps to reproduce the problem.
+For any questions, issues, or feedback, email us at:
 
-## Feature Requests
+**min4034415@gmail.com**
 
-Have an idea? [Submit a feature request](../../issues/new?template=feature_request.md).
+We typically respond within 1-2 business days.
 
-## General Questions
+## Frequently Asked Questions
 
-For general questions or help, open a [discussion](../../discussions) or file an issue.
+**The app isn't tracking my dog's walk correctly.**
+Make sure location and motion permissions are enabled in Settings > Privacy & Security. Place your iPhone securely in your dog's harness pouch for best results.
 
-## Before Reporting
+**The map shows the wrong location.**
+Make sure location permission is set to "While Using the App" in Settings > Privacy & Security > Location Services > Pep Rally.
 
-- Make sure you're on the latest version of Pep Rally
-- Check [existing issues](../../issues) to see if it's already been reported
-- Include your iOS version and device model when reporting bugs
+**How do I add another dog?**
+Go to Settings > Add Dog Profile.
+
+**How do I delete a dog profile?**
+Go to Settings > Dog Profile, scroll to the bottom and tap "Delete Dog Profile".
+
+**The Night Shine screen isn't working.**
+Night Shine uses Metal graphics. Make sure your device supports Metal (iPhone 6 and later). If issues persist, try restarting the app.
+
+**Walk sessions aren't saving.**
+Make sure you tap the end button to properly finish a session. Check Settings > Walk History to view all past sessions.
+
+## Requirements
+
+- iPhone running iOS 17.6 or later
+- Location and Motion permissions required for walk tracking
+
+## Privacy
+
+Read our [Privacy Policy](PRIVACY) to learn how Pep Rally handles your data.
