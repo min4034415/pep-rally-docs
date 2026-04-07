@@ -1,12 +1,21 @@
 # Privacy Policy
 
-**Last updated:** March 29, 2026
+**Last updated:** April 7, 2026
 
 Pep Rally is a local-first app. Your data stays on your device.
 
 ## Data Collection
 
 Pep Rally does **not** collect, transmit, or store any personal data on external servers. All data is stored locally on your device.
+
+## Analytics & Crash Reporting
+
+Starting with version 1.1, Pep Rally uses **Firebase Analytics** and **Firebase Crashlytics** (provided by Google) to collect anonymous usage data and crash reports. This helps us improve the app.
+
+- **Firebase Analytics** collects anonymous, aggregated data about how features are used (e.g. walks started, walk duration, features opened). No personal information, dog names, or location data is included.
+- **Firebase Crashlytics** collects crash reports to help diagnose and fix bugs. Crash reports do not include personal data.
+
+You can learn more about how Google handles this data at [Google's Privacy Policy](https://policies.google.com/privacy).
 
 ## Device Permissions
 
@@ -23,9 +32,8 @@ You can revoke any permission at any time in Settings > Pep Rally.
 
 ## Third-Party Services
 
-Pep Rally uses Apple MapKit for map display. Map tile requests are handled by Apple and subject to [Apple's Privacy Policy](https://www.apple.com/privacy/).
-
-No other third-party analytics, advertising, or tracking services are used.
+- **Apple MapKit** — map display during walks. Subject to [Apple's Privacy Policy](https://www.apple.com/privacy/).
+- **Firebase Analytics & Crashlytics** — anonymous analytics and crash reporting. Subject to [Google's Privacy Policy](https://policies.google.com/privacy).
 
 ## Data Storage
 
@@ -41,4 +49,4 @@ We may update this policy from time to time. Changes will be reflected in the "L
 
 ## Contact
 
-If you have questions about this privacy policy, please [open an issue](../../issues) on our GitHub repository.
+Questions about this privacy policy? Email us at **min4034415@gmail.com**
